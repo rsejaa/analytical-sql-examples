@@ -72,3 +72,4 @@ GROUP BY channel_class, prod_subcategory_desc
 ORDER BY channel_class, "1999_SALES" ASC)
 WHERE rnk <= 5;
 
+select 'SELVA JANANI' from dual;
